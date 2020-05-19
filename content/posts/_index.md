@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Posts"
 weight = "10"
 [menu.main]
