@@ -17,3 +17,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/posts/header.md
