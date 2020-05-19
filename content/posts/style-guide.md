@@ -1,11 +1,11 @@
 +++
-title = "Style Guide"
-date = 2017-11-14T10:57:55-05:00
-tags = ["Layout"]
 categories = []
+date = 2017-11-14T15:57:55Z
 meta = true
-+++
+tags = ["Layout"]
+title = "Style Guide"
 
++++
 # Headings
 
 # Heading 1
