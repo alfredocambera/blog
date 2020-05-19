@@ -1,6 +1,7 @@
 +++
 categories = []
 date = 2017-11-14T15:57:55Z
+draft = true
 meta = true
 tags = ["Layout"]
 title = "Style Guide"

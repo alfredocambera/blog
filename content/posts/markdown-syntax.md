@@ -3,6 +3,7 @@ author = "Hugo Authors"
 categories = ["Layout"]
 date = 2019-03-11T00:00:00Z
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+draft = true
 tags = ["markdown", "css", "html", "themes"]
 title = "Markdown Syntax Guide"
 
