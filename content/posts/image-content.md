@@ -1,10 +1,10 @@
 +++
-title = "Image Style Guide"
-date = 2017-11-14T08:08:17-05:00
-tags = []
 categories = ["Images"]
-+++
+date = 2017-11-14T13:08:17Z
+tags = []
+title = "Image Style Guide"
 
++++
 Veniam est eu adipisicing reprehenderit do sit sint elit sint. Tempor laborum ut dolore aliqua. Commodo eu qui sint magna veniam laborum. Ad cupidatat do proident ex veniam amet Lorem. Officia laboris aute fugiat id consequat culpa ullamco labore ea amet ad. Occaecat quis dolor commodo pariatur cillum et id id cupidatat officia.
 
 Magna incididunt proident cupidatat cupidatat enim consectetur sunt. Ipsum velit aliqua ex ipsum qui labore magna. Ea nisi anim ad culpa Lorem occaecat ex cupidatat duis labore officia dolor.
