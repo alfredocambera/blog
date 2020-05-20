@@ -1,6 +1,7 @@
 +++
 categories = ["Images"]
 date = 2020-01-01T00:00:00Z
+draft = true
 images = ["http://via.placeholder.com/600x200"]
 tags = ["Feature Image", "Layout"]
 title = "Feature Image"
