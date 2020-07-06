@@ -19,3 +19,4 @@ fields:
   label: title
 pages:
 - content/posts/Provisioning a Lambda function using Terraform.md
+- content/posts/ebs.md
