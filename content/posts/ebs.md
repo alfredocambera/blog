@@ -9,10 +9,13 @@ title = ""
 +++
 \# EBS disk volume mapping in Ubuntu
 
-If you have had to work mounting EBS instances using AMI other than \`Amazon Linux AMI\` you may have found that one you have attached a new volume, it's path is not available in the path suggeted by amazon (TODO - show how to check this using the AWS CLI).`Tis supposes as`roblem if we are automating using a configuration management tool as Ansible and it queries the required information from the instance MetaData.  
+If you have had to work mounting EBS instances using AMI other than \`Amazon Linux AMI\` you may have found that one you have attached a new volume, it's pas not availablen the path suggeted by amazon (TODO - show how to check this using the AWS C.Tis supposes asroblem if we are automating using a configuration management tool as Ansible and it queries the required information from the instance MetaData.  
 The problem gets even worse as this may vary depending of the type of virtualization used by the EC2 instance:
 
 [https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/nvme-ebs-volumes.html#identify-nvme-ebs-device](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/nvme-ebs-volumes.html#identify-nvme-ebs-device "https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/nvme-ebs-volumes.html#identify-nvme-ebs-device")
+
+udev rule  
+[https://asanga-pradeep.blogspot.com/2018/12/udev-rules-for-aws-ebs-volumes.html](https://asanga-pradeep.blogspot.com/2018/12/udev-rules-for-aws-ebs-volumes.html "https://asanga-pradeep.blogspot.com/2018/12/udev-rules-for-aws-ebs-volumes.html")
 
 IDEA - Create a diagram showing which instances use Xen and which ones use Nitro  
 \## How does this affect Nitro instances?  
