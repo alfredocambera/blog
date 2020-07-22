@@ -3,8 +3,8 @@ categories = []
 date = ""
 draft = true
 meta = false
-tags = []
-title = ""
+tags = ["ebs", "aws"]
+title = "How to Map EBS Block Devices on Ubuntu 20.04 Instances"
 
 +++
 # **How to Map EBS Block Devices on Ubuntu 20.04 Instances**
