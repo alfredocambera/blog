@@ -19,10 +19,6 @@ pygmentsCodeFences = true
     linkedin = "jesusalfredocambera"
     twitter = "alfredocambera"
     stackoverflow = "users/138163/alfredocambera"
-    #gitlab = "username"
-    #facebook = "username"
-    #instagram = "username"
-    #youtube = "user/username" # or channel/channelname
 
 [params]
     tagline = "DevOps, Infrastructure and Python"
