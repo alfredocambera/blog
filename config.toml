@@ -1,6 +1,6 @@
 baseurl = "https://www.alfredocambera.com/"
 title = "Alfredo Cambera - Automation is not enough"
-copyright = "Copyright &copy; 2020 - Author Name"
+copyright = "Copyright &copy; 2020 - Alfredo Cambera"
 canonifyurls = true
 theme = "hugo-kiera"
 googleAnalytics = "UA-51715960-2"
