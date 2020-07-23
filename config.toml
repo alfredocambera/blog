@@ -30,11 +30,6 @@ pygmentsCodeFences = true
     #utterancesIssueTerm = "pathname"
     #homepageLength = 10
     #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-    [[params.links]]
-      service = "Full RSS Feed"
-      icon = "fa-rss"
-      icon_pack = "fas"
-      link = "/index.xml"
 
 # uncomment to enable the Tags link on the main toolbar
 [[menu.main]]
