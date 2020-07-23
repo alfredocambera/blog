@@ -2,7 +2,7 @@
 title = "How to map EBS block devices on Ubuntu 20.04 EC2 instances"
 date = 2020-07-21T15:51:55-05:00
 images = []
-tags = [aws, ec2, amazon]
+tags = [ "aws", "ec2", "amazon" ]
 categories = []
 draft = false
 +++
