@@ -1,0 +1,4 @@
+html>body>#container>main>article>p>a {
+  color: #000099;
+  text-decoration: underline;
+}

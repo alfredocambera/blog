@@ -19,12 +19,13 @@ pygmentsCodeFences = true
     linkedin = "jesusalfredocambera"
     twitter = "alfredocambera"
     stackoverflow = "users/138163/alfredocambera"
+    devto = "alfredocambera"
 
 [params]
     tagline = "DevOps, Infrastructure and Python"
     description = "Alfredo Cambera - DevOps, Infrastructure and Python"
     #images = [""] #This is used for opengraph/twitter cards.
-    customCSS = []  #Optional Customised CSS
+    customCSS = ["css/custom.css"]  #Optional Customised CSS
     #favicon = ""
     #utterancesRepo = "username/repository"
     #utterancesIssueTerm = "pathname"
