@@ -1,4 +1,56 @@
+body {
+  font-family: "Montserrat";
+}
+
+/* main site title */
+html>body>div#container>header>h1>a {
+  color: #293241;
+}
+
+/* post title - opened post */
+html>body>#container>main>article>h1 {
+  font-size: 1.6em;  
+  color: #3D5A80;
+}
+
+/* post title - closed post */
+html>body>#container>main>#home>ul>li.first>h1>a  {
+  font-size: 0.80em;
+  color: #3D5A80;
+}
+
+/* sub-menu -- tags, posts, about */
+html>body>#container>nav>ul>li>a {
+  font-size: 0.9em;
+  color: #EE6C4D;
+}
+
+/* 'Read more...' */
 html>body>#container>main>article>p>a {
-  color: #000099;
-  text-decoration: underline;
+  color: #EE6C4D;
+}
+
+/* matches the links in the posts */
+html>body>#container>main>#home>ul>li>a {
+  color: #EE6C4D;
+}
+
+/* tags */
+html>body>#container>main>article>aside>ul>li>em>a, html>body>#container>main>section>ul>.first>aside>ul>li>em>a {
+  color: #EE6C4D;
+}
+
+/* time to read */
+html>body>#container>main>article>aside>ul>li, html>body>#container>main>section>ul>.first>aside>ul>li {
+  color: #98C1D9;
+}
+
+ /* remove underline to active link on sub-menu */
+html>body>#container>nav>ul>li>.active {
+  border-bottom: none;
+}
+
+/* entries in list of tags */
+html>body>#container>main>#list>ul>li>a{
+  color: #EE6C4D;
 }
