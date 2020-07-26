@@ -31,7 +31,7 @@ pygmentsCodeFences = true
     #utterancesIssueTerm = "pathname"
     #homepageLength = 10
     #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-    google_fonts = ["Montserrat", "Neutron"]
+    google_fonts = ["Montserrat"]
 
 
 # uncomment to enable the Tags link on the main toolbar
